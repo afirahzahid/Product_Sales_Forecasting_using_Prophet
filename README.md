@@ -3,6 +3,10 @@
 ## **Overview**
 This project leverages advanced time series forecasting techniques to predict sales for various product categories. By using historical sales data, the goal is to enable businesses to make data-driven decisions to optimize inventory, improve resource allocation, and maximize revenue.
 
+
+## Live Demo
+[Product Category Sales Forecasting App](https://appforecasting.streamlit.app/)
+
 ## **Key Features**
 - Forecast sales for 10 different product categories.
 - Historical data exploration and preprocessing.
